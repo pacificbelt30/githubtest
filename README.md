@@ -1,2 +1,2 @@
-# githubtest
-githubの練習をしよう
+# githubtest 
+githubの練習をしようとしたけどあきらめた
